@@ -2,20 +2,6 @@
 
 Site criado utilizando HTML, CSS, JavaScript. Teve como objetivo exercitar os conhecimentos.
 
-<br>
-
-## Preview
-
-<br>
-
-![Preview Project Light Mode](images/thumbnail-black.png)
-
-<br>
-
-## Live Preview:
-https://robsonvinicius.github.io/brod-padaria/
-
-<br>
 
 ### 📁 Assets
 
