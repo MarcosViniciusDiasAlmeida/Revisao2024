@@ -1,4 +1,4 @@
-﻿# Brod Padaria
+﻿# Delicio Padaria
 
 Site criado utilizando HTML, CSS, JavaScript. Teve como objetivo exercitar os conhecimentos.
 
